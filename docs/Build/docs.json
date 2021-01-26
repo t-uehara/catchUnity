@@ -1,0 +1,11 @@
+{
+"companyName": "SARUTOBI Lab.",
+"productName": "Catchball",
+"dataUrl": "docs.data.unityweb",
+"asmCodeUrl": "docs.asm.code.unityweb",
+"asmMemoryUrl": "docs.asm.memory.unityweb",
+"asmFrameworkUrl": "docs.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
